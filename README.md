@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Saxena</h1>
 <h3 align="center">A passionate Data Science & ML Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Feverything-you-need-to-know-to-land-a-job-in-data-science%2F&psig=AOvVaw1Nt3em42qUhWL0i7bW-KHm&ust=1693171481051000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiF-f6i-4ADFQAAAAAdAAAAABAE"
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik91625&label=Profile%20views&color=0e75b6&style=flat" alt="ritik91625" /> </p>
