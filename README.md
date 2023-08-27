@@ -1,4 +1,4 @@
-![logo](https://github.com/ritik91625/ritik91625/blob/main/Ritik%20Saxena.png)
+![logo](https://github.com/ritik91625/ritik91625/blob/main/Ritik_Saxena.png)
 <h1 align="center">Hi 👋, I'm Ritik Saxena</h1>
 <h3 align="center">A passionate Data Science & ML Developer from India</h3>
 
