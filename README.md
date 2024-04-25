@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Data analyst with a passion for uncovering insights and solving complex problems through data.<br>👯 Proficient in data analysis, visualization, and statistical modeling techniques.<br>🤝 Skilled in Python, SQL, R, and Excel for data manipulation and analysis.<br>🌱 Experienced in Machine Learning Algorithms and Predictive Modeling.<br>💬 Strong communicator with a knack for translating data-driven insights into actionable recommendations.<br>⚡ Actively seeking new opportunities to apply analytical skills and drive business impact.
+🔭 Hey.. I'm ritik91625 , passionate for finding uncovering insights and solving complex problems through data.<br>👯 Proficient in data analysis, visualization, and statistical modeling techniques.<br>🤝 Skilled in Python, SQL, R, and Excel for data manipulation and analysis.<br>🌱 Experienced in Machine Learning Algorithms and Predictive Modeling.<br>💬 Strong communicator with a knack for translating data-driven insights into actionable recommendations.<br>⚡ Actively seeking new opportunities to apply analytical skills and drive business impact.
 
 
 ## 🌐 Socials:
